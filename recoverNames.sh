@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ## http://www.sno.phy.queensu.ca/~phil/exiftool/exiftool_pod.html
+## installation: sudo apt-get install libimage-exiftool-perl
 
 music=/home/bhavijagwani/Documents/music2/*
 count=0
